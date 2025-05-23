@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(102, 143, 255);
+}
+h1 {
+    border: solid 3px rgb(0, 36, 112);
+    background-color: rgba(156, 248, 176, 0.815);
+    color: blue;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    text-shadow: 5px 5px 1px rgba(0, 0, 0, 0.26);
+    padding: 3px;
+    margin: 0px;
+}
